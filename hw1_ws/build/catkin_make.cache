@@ -1,0 +1,2 @@
+ros_tutorials/client_py:ros_tutorials/server_py
+-DCATKIN_DEVEL_PREFIX=/home/jhbang/Homework/hw1_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jhbang/Homework/hw1_ws/install -G Unix Makefiles

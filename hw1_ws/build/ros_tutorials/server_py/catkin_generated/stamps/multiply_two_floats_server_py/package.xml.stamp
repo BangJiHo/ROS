@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+  <name>multiply_two_floats_server_py</name>
+  <version>0.0.0</version>
+  <description>multiply_two_floats_server_py</description>
+
+  <maintainer email="gs5010@khu.ac.kr">Jiho Bang</maintainer>
+  <license>BSD</license>
+  <author>Jiho Bang</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>message_generation</build_depend>
+
+  <run_depend>message_runtime</run_depend>
+  <run_depend>std_msgs</run_depend>
+
+  <export>
+
+
+  </export>
+</package>

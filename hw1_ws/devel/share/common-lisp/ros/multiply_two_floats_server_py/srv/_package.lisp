@@ -1,0 +1,10 @@
+(cl:defpackage multiply_two_floats_server_py-srv
+  (:use )
+  (:export
+   "MULTIPLYTWOFLOATS"
+   "<MULTIPLYTWOFLOATS-REQUEST>"
+   "MULTIPLYTWOFLOATS-REQUEST"
+   "<MULTIPLYTWOFLOATS-RESPONSE>"
+   "MULTIPLYTWOFLOATS-RESPONSE"
+  ))
+
